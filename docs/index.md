@@ -1,11 +1,11 @@
 
-## Audio Editing
+### Audio Editing
 
 6.  [Cleanvoice AI](https://cleanvoice.ai/?ref=futurepedia)
 7.  [Podcastle](https://podcastle.ai/?ref=futurepedia)
 8.  [Altered](https://www.altered.ai/?ref=futurepedia)
 
-#### Avatars
+### Avatars
 
 16.  [Character AI](https://beta.character.ai/?ref=futurepedia) - funny perhaps-gpt-based chats or AI-driven stories
 22.  [PictoDream](https://pictodream.com/?ref=futurepedia)
@@ -15,7 +15,7 @@
 26.  [Vana Portrait](https://portrait.vana.com/?ref=futurepedia)
 27.  [DreamPic.AI](http://DreamPic.AI)
 
-## Code Assistant
+### Code Assistant
 
 2.  [AutoRegex](https://www.autoregex.xyz/?ref=futurepedia) - Automatic translator from plain English to regex expression
 5.  [Copilot](https://github.com/features/copilot?ref=futurepedia) - Free code completion for verified students, teachers, and maintainers of popular open-source repositories on GitHub
@@ -42,7 +42,7 @@
 26.  [Hey, Github!](https://githubnext.com/projects/hey-github?ref=futurepedia)
 27.  [CodeSquire](https://codesquire.ai/?ref=futurepedia)
 
-## Copywriting
+### Copywriting
 
 1.  [Adcreative.ai](https://free-trial.adcreative.ai/yu6pljyh4s0k)
 2.  [Writesonic](https://writesonic.com/?via=futurepedia)
@@ -79,7 +79,7 @@
 33.  [Digital First AI](https://digitalfirst.ai/?ref=futurepedia)
 34.  [Bertha.ai](https://bertha.ai/?ref=futurepedia)
 
-## Customer Support
+### Customer Support
 
 1.  [echowin](https://echo.win/?ref=futurepedia)
 2.  [Ebi.Ai](https://ebi.ai/?ref=futurepedia)
@@ -102,7 +102,7 @@
 19.  [Poly.ai](https://poly.ai/?ref=futurepedia)
 20.  [BotDistrikt](https://www.botdistrikt.com/?ref=futurepedia)
 
-## Design Assistant
+### Design Assistant
 
 1.  [Flair AI](https://flair.ai/?ref=futurepedia)
 2.  [Autodraw](https://autodraw.com/?ref=futurepedia)
@@ -134,7 +134,7 @@
 28.  [Photoroom](https://www.photoroom.com/?ref=futurepedia)
 29.  [Magician (Figma)](https://magician.design/?ref=futurepedia)
 
-## Developer Tools
+### Developer Tools
 
 1.  [AutoRegex](https://www.autoregex.xyz/?ref=futurepedia)
 2.  [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=futurepedia)
@@ -171,7 +171,7 @@
 33.  [Dust](https://dust.tt/?ref=futurepedia)
 34.  [CSM](https://csm.ai/?ref=futurepedia)
 
-## Education Assistant
+### Education Assistant
 
 1.  [ELI5](https://explainlikeimfive.io/?ref=futurepedia)
 2.  [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream?ref=futurepedia)
@@ -182,7 +182,7 @@
 7.  [TutorAI](https://www.tutorai.me/?ref=futurepedia)
 8.  [Quizgecko](https://quizgecko.com/?ref=futurepedia)
 
-## Email Assistant
+### Email Assistant
 
 1.  [HoppyCopy](https://www.hoppycopy.co/?via=futurepedia)
 2.  [Rytr](https://rytr.me/?via=futurepedia)
@@ -213,21 +213,21 @@
 27.  [MateAI](https://www.mateai.io/?ref=futurepedia)
 28.  [Pipl.ai](https://pipl.ai/?ref=futurepedia)
 
-## Experiments
+### Experiments
 
 1.  [AI Experiments](https://experiments.withgoogle.com/collection/ai?ref=futurepedia)
 2.  [Talk To Books](https://books.google.com/talktobooks/?ref=futurepedia)
 3.  [Ask My Book](https://askmybook.com/?ref=futurepedia)
 4.  [Alethea](https://alethea.ai/?ref=futurepedia)
 
-## Fashion
+### Fashion
 
 1.  [VisualHound](https://visualhound.com/?ref=futurepedia)
 2.  [Botika](https://botika.io/?ref=futurepedia)
 3.  [Cala](https://ca.la/?ref=futurepedia)
 4.  [FashionAdvisorAI](https://www.fashionadvisorai.com/?ref=futurepedia)
 
-## Fun Tools
+### Fun Tools
 
 1.  [ELI5](https://explainlikeimfive.io/?ref=futurepedia)
 2.  [Talk to Books](https://books.google.com/talktobooks/?ref=futurepedia)
@@ -262,7 +262,7 @@
 31.  [AI Time Machine](https://www.myheritage.com/ai-time-machine?ref=futurepedia)
 32.  [Chai](https://chai.ml/?ref=futurepedia)
 
-## Gaming
+### Gaming
 
 1.  [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/?ref=futurepedia)
 2.  [In3D](https://in3d.io/?ref=futurepedia)
@@ -283,7 +283,7 @@
 18.  [Luma AI](https://lumalabs.ai/?ref=futurepedia)
 19.  [Scenario](https://www.scenario.gg/?ref=futurepedia)
 
-## General Writing
+### General Writing
 
 1.  [Glasp](https://glasp.co/ai-writing?ref=futurepedia)
 2.  [Notion AI](https://affiliate.notion.so/futurepedia)
@@ -321,7 +321,7 @@
 34.  [Lex](https://lex.page/?ref=futurepedia)
 35.  [Quasi](https://quasi.market/?ref=futurepedia)
 
-## Gift Ideas
+### Gift Ideas
 
 1.  [Suggest Gift](https://suggest.gift/?ref=futurepedia)
 2.  [Cool Gift Ideas](https://www.coolgiftideas.io/?ref=futurepedia)
@@ -330,12 +330,12 @@
 5.  [Gifts Genie](https://gen.gifts/?ref=futurepedia)
 6.  [Giftastic.ai](https://giftastic.ai/?ref=futurepedia)
 
-## Healthcare
+### Healthcare
 
 1.  [Whisper AI](https://whisper.ai/?ref=futurepedia)
 2.  [Cradle](https://cradle.bio/?ref=futurepedia)
 
-## Human Resources
+### Human Resources
 
 1.  [GeniusReview](https://geniusreview.xyz/?ref=futurepedia)
 2.  [SwagAI](https://www.useslingshot.com/swagai/?ref=futurepedia)
@@ -353,7 +353,7 @@
 14.  [Resume Worded](https://resumeworded.com/index.php?ref=futurepedia)
 15.  [HireYaY](https://hireyay.com/?ref=futurepedia)
 
-## Image Editing
+### Image Editing
 
 6.  [RestorePhotos](https://www.restorephotos.io/?ref=futurepedia) - can be used to restore direct face pics (with some facial artifacts though)
 7.  [Bria](https://bria.ai/?ref=futurepedia)
@@ -375,7 +375,7 @@
 23.  [Photoroom](https://www.photoroom.com/?ref=futurepedia)
 24.  [Magic Eraser](https://magiceraser.io/?ref=futurepedia)
 
-## Image Generator
+### Image Generator
 
 1.  [Flair AI](https://flair.ai/?ref=futurepedia)
 2.  [Craiyon](https://www.craiyon.com/?ref=futurepedia)
@@ -407,7 +407,7 @@
 28.  [Go Charlie](https://gocharlie.ai/?ref=futurepedia)
 29.  [Dreamer](https://slashdreamer.com/?ref=futurepedia)
 
-## Legal Assistant
+### Legal Assistant
 
 1.  [DoNotPay](https://donotpay.com/?ref=futurepedia)
 2.  [Ferret](https://www.ferret.ai/?ref=futurepedia)
@@ -417,7 +417,7 @@
 6.  [Casetext](https://casetext.com/?ref=futurepedia)
 7.  [Spellbook](https://www.spellbook.legal/?ref=futurepedia)
 
-## Life Assistant
+### Life Assistant
 
 1.  [Apple Books](https://www.apple.com/in/apple-books/?ref=futurepedia)
 2.  [Rewind AI](https://www.rewind.ai/?ref=futurepedia)
@@ -439,7 +439,7 @@
 18.  [Looria](https://looria.com/?ref=futurepedia)
 19.  [Resume Worded](https://resumeworded.com/index.php?ref=futurepedia)
 
-## Logo Generator
+### Logo Generator
 
 1.  [Looka](https://looka.grsm.io/futurepedia)
 2.  [Namecheap Logo Maker](https://www.namecheap.com/logo-maker/app/new/?ref=futurepedia)
@@ -447,7 +447,7 @@
 4.  [Designs AI](https://designs.ai/?ref=futurepedia)
 5.  [Brandmark](https://brandmark.io/tools/?ref=futurepedia)
 
-## Low-code/No-code
+### Low-code/No-code
 
 1.  [Browse AI](https://browse.ai/?via=futurepedia)
 2.  [Softr Studio](https://softrplatformsgmbh.grsm.io/4a8exk97h4m7)
@@ -487,7 +487,7 @@
 36.  [Robovision.ai](https://robovision.ai/product/platform/?ref=futurepedia)
 37.  [AI Surge Cloud](https://ai-surge.cloud/?ref=futurepedia)
 
-## Memory
+### Memory
 
 1.  [Glasp](https://glasp.co/ai-writing?ref=futurepedia)
 2.  [Rewind AI](https://www.rewind.ai/?ref=futurepedia)
@@ -495,7 +495,7 @@
 4.  [Mem.ai](https://mem.ai/?ref=futurepedia)
 5.  [Personal.ai](https://www.personal.ai/?ref=futurepedia)
 
-## Music
+### Music
 
 1.  [Riffusion](https://www.riffusion.com/?ref=futurepedia)
 2.  [Boomy](https://boomy.com/?ref=futurepedia)
@@ -514,7 +514,7 @@
 15.  [Quasi](https://quasi.market/?ref=futurepedia)
 16.  [Songtell](https://songtell.com/?ref=futurepedia)
 
-## Paraphraser
+### Paraphraser
 
 1.  [Quillbot Paraphraser](https://try.quillbot.com/futurepedia) (Not bad, but has a limit of 125 words)
 2.  [Penelope AI](https://penelope-ai.vercel.app/?ref=futurepedia) Free of charge markdown editor with features like 
@@ -531,7 +531,7 @@
 9.  [Language Tool](https://languagetool.org/?ref=futurepedia)
 10.  [Rephrasely](https://rephrasely.com/?ref=futurepedia)
 
-## Personalized Videos
+### Personalized Videos
 
 1.  [Vidyo](https://vidyo.ai/?ref=futurepedia)
 2.  [Maverick](https://www.trymaverick.com/?ref=futurepedia)
@@ -542,7 +542,7 @@
 7.  [Rephrase](https://www.rephrase.ai/?ref=futurepedia)
 8.  [Tavus](https://www.tavus.io/?ref=futurepedia)
 
-## Productivity
+### Productivity
 
 1.  [Krisp](https://krisp.ai/?ref=futurepedia)
 2.  [ChatGPT](https://chat.openai.com/chat?ref=futurepedia)
@@ -585,7 +585,7 @@
 39.  [Personal.ai](https://www.personal.ai/?ref=futurepedia)
 40.  [DeepL](https://deepl.com/?ref=futurepedia)
 
-## Prompts
+### Prompts
 
 1.  [Public Prompts](https://publicprompts.art/?ref=futurepedia)
 2.  [PromptBase](https://promptbase.com/?ref=futurepedia)
@@ -601,7 +601,7 @@
 12.  [Krea](https://www.krea.ai/?ref=futurepedia)
 13.  [Dallelist](https://www.dallelist.com/?ref=futurepedia)
 
-## Real Estate
+### Real Estate
 
 1.  [InteriorAI](https://interiorai.com/?ref=futurepedia)
 2.  [CoolAlid](https://coolaiid.com/?ref=futurepedia)
@@ -609,7 +609,7 @@
 4.  [AI Room Planner](https://airoomplanner.com/?ref=futurepedia)
 5.  [GetFloorPlan](https://getfloorplan.com/?ref=futurepedia)
 
-## Research
+### Research
 
 1.  [WolframAlpha](https://www.wolframalpha.com/?ref=futurepedia)
 2.  [Socratic by Google](https://socratic.org/?ref=futurepedia)
@@ -624,7 +624,7 @@
 11.  [Scispace](https://typeset.io/?ref=futurepedia)
 12.  [Scholarcy](https://www.scholarcy.com/?ref=futurepedia)
 
-## Resources
+### Resources
 
 1.  [fast.ai](https://www.fast.ai/?ref=futurepedia)
 2.  [AI Experiments](https://experiments.withgoogle.com/collection/ai?ref=futurepedia)
@@ -634,7 +634,7 @@
 6.  [The AI Times](https://www.aitimespage.com/ai?ref=futurepedia)
 7.  [ML news](https://www.machine-learning.news/list/general?ref=futurepedia)
 
-## Sales
+### Sales
 
 1.  [Robin](https://www.hellorobin.ai/?ref=futurepedia)
 2.  [Instantly](https://instantly.ai/?ref=futurepedia)
@@ -667,7 +667,7 @@
 29.  [MateAI](https://www.mateai.io/?ref=futurepedia)
 30.  [Pipl.ai](https://pipl.ai/?ref=futurepedia)
 
-## Search Engine
+### Search Engine
 
 1.  [Andi](https://andisearch.com/?ref=futurepedia)
 2.  [NeevaAI](https://neeva.com/?ref=futurepedia)
@@ -711,7 +711,7 @@
 40.  [Explore AI](https://exploreai.vercel.app/?ref=futurepedia)
 41.  [Dream Up (Deviant Art)](https://www.dreamup.com/?ref=futurepedia)
 
-## SEO
+### SEO
 
 1.  [Writesonic](https://writesonic.com/?via=futurepedia)
 2.  [LongShot](https://longshot.ai/?deal=futurepedia)
@@ -747,7 +747,7 @@
 32.  [WordHero](https://wordhero.co/?via=futurepedia)
 33.  [Scalenut](https://www.scalenut.com/?ref=futurepedia)
 
-## Social Media Assistant
+### Social Media Assistant
 
 1.  [Adcreative.ai](https://free-trial.adcreative.ai/yu6pljyh4s0k)
 2.  [Canva Text to Image](https://www.canva.com/your-apps/text-to-image?ref=futurepedia)
@@ -771,7 +771,7 @@
 20.  [Wordhero](https://wordhero.co/?via=futurepedia)
 21.  [InstaSalesAI](https://instasalesai.com/?ref=futurepedia)
 
-## Spreadsheets
+### Spreadsheets
 
 1.  [Sheet AI](https://www.sheetai.app/?ref=futurepedia)
 2.  [SheetGod](https://www.boloforms.com/sheetgod/?ref=futurepedia)
@@ -779,7 +779,7 @@
 4.  [Excel Formula Bot](https://excelformulabot.com/?ref=futurepedia)
 5.  [Goodlookup](https://www.goodlookup.com/?ref=futurepedia)
 
-## SQL
+### SQL
 
 1.  [AI Data Sidekick](https://www.airops.com/?ref=futurepedia)
 2.  [Ai2sql](https://www.ai2sql.io/?ref=futurepedia)
@@ -790,7 +790,7 @@
 7.  [Continual](https://continual.ai/?ref=futurepedia)
 8.  [CodeSquire](https://codesquire.ai/?ref=futurepedia)
 
-## Startup
+### Startup
 
 1.  [IdeasAI](https://ideasai.com/?ref=futurepedia)
 2.  [Validator AI](https://www.validatorai.com/?ref=futurepedia)
@@ -805,7 +805,7 @@
 11.  [Namewizard.ai](https://namewizard.ai/?ref=futurepedia)
 12.  [Pitchgrade](https://pitchgrade.com/?ref=futurepedia)
 
-## Story Teller
+### Story Teller
 
 1.  [Tome](https://beta.tome.app/?ref=futurepedia)
 2.  [BedtimeStory AI](https://www.bedtimestory.ai/?ref=futurepedia)
@@ -822,7 +822,7 @@
 13.  [Fabled](https://fabled.ai/?ref=futurepedia)
 14.  [Subtxt](https://subtxt.app/?ref=futurepedia)
 
-## Summarizer
+### Summarizer
 
 1.  [Noty.ai](http://Noty.ai)
 2.  [Penelope AI](https://penelope-ai.vercel.app/?ref=futurepedia)
@@ -844,7 +844,7 @@
 18.  [Upword](https://www.upword.ai/?ref=futurepedia)
 19.  [TLDR this](https://tldrthis.com/?ref=futurepedia)
 
-## Text to Speech
+### Text to Speech
 
 1.  [Mubert](https://mubert.com/?via=futurepedia)
 2.  [Apple Books](https://www.apple.com/in/apple-books/?ref=futurepedia)
@@ -870,7 +870,7 @@
 22.  [Wellsaidlabas](https://wellsaidlabs.com/?ref=futurepedia)
 23.  [Eleven Labs](http://elevenlabs.io/?ref=futurepedia)
 
-## Transcriber
+### Transcriber
 
 1.  [Peech](https://www.peech-ai.com/?ref=futurepedia)
 2.  [Noty.ai](https://noty.ai/?ref=futurepedia)
@@ -885,7 +885,7 @@
 11.  [Free Subtitle AI](https://freesubtitles.ai/?ref=futurepedia)
 12.  [Type Studio](https://www.typestudio.co/tool/video-to-text/?ref=futurepedia)
 
-## Video Editing
+### Video Editing
 
 1.  [Runwayml](https://runwayml.com/?ref=futurepedia)
 2.  [Papercup](https://www.papercup.com/?ref=futurepedia)
@@ -903,7 +903,7 @@
 14.  [Contentfries](https://www.contentfries.com/?ref=futurepedia)
 15.  [Type Studio](https://www.typestudio.co/tool/video-to-text/?ref=futurepedia)
 
-## Video Generator
+### Video Generator
 
 1.  [Fliki](https://fliki.ai/?via=futurepedia)
 2.  [Pollinations](https://pollinations.ai/?ref=futurepedia)
@@ -928,7 +928,7 @@
 21.  [Designs AI](https://designs.ai/?ref=futurepedia)
 22.  [FILM](https://replicate.com/google-research/frame-interpolation?ref=futurepedia)
 
-## 3D
+### 3D
 
 1.  [Pixela AI](https://pixela.ai/?ref=futurepedia)
 2.  [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/?ref=futurepedia)
@@ -951,7 +951,7 @@
 19.  [CSM](https://csm.ai/?ref=futurepedia)
 20.  [Scenario](https://www.scenario.gg/?ref=futurepedia)
 
-## Art
+### Art
 
 1.  [Midjourney](https://www.midjourney.com/home/?ref=futurepedia)
 3.  [Fy! Studio](https://www.iamfy.co/studio?ref=futurepedia)
